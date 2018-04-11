@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/Common/Common.iml" filepath="$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet.iml" filepath="$PROJECT_DIR$/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/bo/bo.iml" filepath="$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/bo/bo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/console/console.iml" filepath="$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/console/console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/dao/dao.iml" filepath="$PROJECT_DIR$/../../AstonEngineer/com.astontech.oop/dao/dao.iml" />
+    </modules>
+  </component>
+</project>

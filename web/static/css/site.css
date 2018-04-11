@@ -1,0 +1,57 @@
+.border {
+    border: 2px solid;
+    width: 20%;
+    padding: 15px;
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+
+.border2 {
+    border: 2px solid;
+    width: 93%;
+    padding: 15px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: x-large;
+}
+
+input[type="text"] {
+    border: 2px solid;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 3px;
+}
+
+input[type="hidden"] {
+    border: 2px solid;
+    padding: 3px;
+}
+
+.names {
+    border-bottom: 2px solid;
+    text-align: justify;
+    word-spacing: 20px;
+    margin-left: 5px;
+
+}
+
+select {
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 3px;
+    margin-right: 4px;
+    padding: 4px;
+    background: transparent;
+    width: 240px;
+
+
+}
+
+button {
+    border: 2px solid;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 4px;
+
+}
